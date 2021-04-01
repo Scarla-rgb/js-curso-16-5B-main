@@ -27,3 +27,24 @@ Scarla Rodriguez #16.
 * [x] Usar comando **git add .** para preparar los cambios.
 * [x] Usar comando **git commit -am "Istalar paquetes Yargs y Colors**.
 * [x] Usar comando **git push** para subir mis cambios al remoto.
+
+# Lab #8.2: Creacion y Organizacion del proyecto:
+
+Scarla Rodriguez #16.
+
+* [x] Crear el archivo *node-CLI/app.js*
+    * [x] Hacemos *git add .*
+    * [x] Hacemos *git commit -am "Crea app.js*
+    * [x] Hacemos *git push*
+* [x] Crear directorio *node-CLI/tools* con:
+    * [x] Crear *node-CLI/tools/index.js*
+    * [x] Crear *node-CLI/tools/argvs.js*
+    * [x] Crear *node-CLI/tools/files.js*
+    * [x] Crear *node-CLI/tools/options.js*
+    * [x] Crear *node-CLI/tools/task.js*
+* [x] Crear directorio *node-CLI/db* con
+    * [x] Crear *node-CLI/db/task.json*
+    * [x] Hacemos *git add .*
+    * [x] Hacemos *git commit -am "Crea tools settings"*
+    * [x] Hacemos *git push*
+    
