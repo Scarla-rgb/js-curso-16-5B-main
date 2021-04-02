@@ -71,7 +71,7 @@ Scarla Rodriguez #16.
 
 # Lab #8.4 Trabajando con opciones de Yargs:
 
-Julian Rafel Ureña Marte #23.
+Scarla Rodriguez #16.
 
 * [x] Empezamos a trabajar con **options.js**
   * [x] Creamos los objetos para nuestros comandos:
