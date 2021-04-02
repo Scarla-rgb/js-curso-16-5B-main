@@ -96,5 +96,5 @@ Scarla Rodriguez #16.
         * [x] Creamos funciones para trabajar los tasks: **createTask, updateTask, eraseTask**
         * [x] Exportamos nuestras funciones
         * [x] Hacemos **git add .**
-        * [x] Hacemos **git commit -am "Configura argvs con opciones para los comandos"**
+        * [x] Hacemos **git commit -am "Trabajamos en funciones para los tasks o tareas"**
         * [x] Hacemos **git push**
