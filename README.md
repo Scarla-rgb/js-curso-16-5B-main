@@ -87,3 +87,14 @@ Scarla Rodriguez #16.
   * [x] Hacemos **git add .**
   * [x] Hacemos **git commit -am "Configura argvs con opciones para los comandos"**
   * [x] Hacemos **git push**
+
+  # Lab 8.5 Trabajamos en funciones para los tasks o tareas:
+
+Scarla Rodriguez #16.
+
+  * [x] Empezamos a trabajar con task.js
+        * [x] Creamos funciones para trabajar los tasks: **createTask, updateTask, eraseTask**
+        * [x] Exportamos nuestras funciones
+        * [x] Hacemos **git add .**
+        * [x] Hacemos **git commit -am "Configura argvs con opciones para los comandos"**
+        * [x] Hacemos **git push**
