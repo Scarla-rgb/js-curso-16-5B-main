@@ -98,3 +98,18 @@ Scarla Rodriguez #16.
         * [x] Hacemos **git add .**
         * [x] Hacemos **git commit -am "Trabajamos en funciones para los tasks o tareas"**
         * [x] Hacemos **git push**
+
+# Lab 8.6 Trabajamos con la configuracion de Yargs:
+
+Scarla Rodriguez #16.
+
+* [x] Empezamos a trabajar con el fichero **argvs.js**
+    * [x] Agregamos los comandos que usara Yargs.
+    * [x] Exporto el proyecto argvs para nuestro proyecto.
+
+* [x] Empezamos a trabajar con **index.js**
+    * [x] Importamos y exportamos nuestras herramientas.
+
+* [x] Hacemos **git add .**
+* [x] Hacemos **git commit -am "Exportar tools components**
+* [x] Hacemos **git push**
