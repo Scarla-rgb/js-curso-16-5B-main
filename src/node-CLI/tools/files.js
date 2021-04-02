@@ -24,3 +24,23 @@ const loadtask = () => {
     }
     return listalk;
 }
+
+//Funcion para guardar los task en task.json
+const saveTask = (listTask) => {
+
+    let data = JSON.stringify(listTask);
+
+
+    fs.writeFile(filepath, data, (error) => {
+        if (error) {
+            throw new Error("Error create by me: --", error);
+
+        }
+    })
+
+}
+
+module.exports = {
+    loadtask,
+    saveTask
+}
