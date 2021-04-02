@@ -48,3 +48,24 @@ Scarla Rodriguez #16.
     * [x] Hacemos *git commit -am "Crea tools settings"*
     * [x] Hacemos *git push*
     
+# Lab #8.3 Trabajando con ficheros en Node:
+
+Scarla Rodriguez #16.
+
+* [x] Empezamos a trabajar con **files.js**
+    * [x] Importamos paquetes **Path y Colors**
+
+* [x] Usamos paquetes importados en nuestro codigo con la funcion **loadTask()**
+    * [x] Exportamos nuestra funcion **loadTask()**
+    * [x] Pruebas de loadTask.
+    * [x] Hacemos **git add .**
+    * [x] Hacemos **git commit -am "Crea funcion loadTask()**
+    * [x] Hacemos **git push**
+
+* [x] Usamos paquetes importados en nuestro codigo con la funcion **saveTask()**
+    * [x] Exportamos nuestra funcion **saveTask()**
+    * [x] Pruebas de saveTask.
+    * [x] Hacemos **git add .**
+    * [x] Hacemos **git commit -am "Crea funcion saveTask()**
+    * [x] Hacemos **git push**
+
